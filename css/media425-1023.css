@@ -1,0 +1,12 @@
+@media (min-width: 425px) {
+  .swiper {
+    display: none !important;
+  }
+
+  .menu__list {
+    display: flex;
+    padding: 0;
+    padding-top: 24px;
+    flex-wrap: wrap;
+  }
+}
